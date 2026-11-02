@@ -1,0 +1,18 @@
+{
+    "features": [
+        "Area_sqft",
+        "Bedrooms",
+        "Bathrooms",
+        "Floors",
+        "Year_Built",
+        "Location_Score",
+        "School_Score",
+        "Current_Price",
+        "Property_Age",
+        "Price_Per_Sqft"
+    ],
+    "roi_threshold": 36.69895589053441,
+    "year_reference": 2026,
+    "classification_model": "Extra Trees",
+    "regression_model": "Gradient Boosting"
+}
